@@ -1,8 +1,8 @@
 # My Own PHP Blog 
-Last update: 19 november 2021
-Owner: Julián Campos Pérez
-Website: https://juliancampos.es
-Twitter: https://twitter.com/juliancamposes
+Last update: 19 november 2021 <br/>
+Owner: Julián Campos Pérez <br/>
+Website: https://juliancampos.es <br/>
+Twitter: https://twitter.com/juliancamposes <br/>
 
 ## What is "My Own PHP Blog"?
 
@@ -16,7 +16,8 @@ You can follow it too in my timeline in twitter (@juliancamposes)
 
 ## Which technologies will be used?
 
-Normally I'm going to use PHP (without framework), MySQL, JavaScript, HTML5 and CSS. For the frontend design I'm going to use Bootstrap.
+Normally I'm going to use PHP (without framework), MySQL, JavaScript, HTML5 and CSS. For the frontend design I'm going to use Bootstrap. <br/>
+If you have any suggestions, please tell me!
 
 ## When will you see it?
 
