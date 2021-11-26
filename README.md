@@ -19,11 +19,11 @@ You can follow it too in my timeline in twitter (@juliancamposes)
 Normally I'm going to use PHP (without framework), MySQL, JavaScript, HTML5 and CSS. For the frontend design I'm going to use Bootstrap. <br/>
 If you have any suggestions, please tell me!
 
-## When will you see it?
-
-I don't know :rofl:
-
 ## Structure folder
 
 The basic structure folder was defined in: https://juliancampos.es/folder-structure-php-project/
-                
+              
+## When will you see the project released?
+
+I don't know :rofl:
+
