@@ -23,3 +23,7 @@ If you have any suggestions, please tell me!
 
 I don't know :rofl:
 
+## Structure folder
+
+The basic structure folder was defined in: https://juliancampos.es/folder-structure-php-project/
+                
