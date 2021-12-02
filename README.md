@@ -22,6 +22,10 @@ If you have any suggestions, please tell me!
 ## Structure folder
 
 The basic structure folder was defined in: https://juliancampos.es/folder-structure-php-project/
+
+## Entity Relationship diagram
+
+You can find the ER diagram updated at 12/02/2021 in: https://juliancampos.es/design-of-the-entity-relationship-diagram-for-a-sql-database/
               
 ## When will you see the project released?
 
